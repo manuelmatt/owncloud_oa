@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>open_atrium</id>
+    <name>Open Atrium integration</name>
+    <description>Integrates Open Atrium and its group structure into ownCloud</description>
+    <version>0.1</version>
+    <licence>MIT</licence>
+    <author>Uni Konstanz</author>
+    <require>6</require>
+</info>
