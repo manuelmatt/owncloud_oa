@@ -15,6 +15,6 @@ class PageController extends Controller {
      * @IsSubAdminExemption
      */
     public function index(){
-        return $this->render('main');
+        return $this->render('main2');
     }
 }
